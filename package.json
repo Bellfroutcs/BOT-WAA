@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Inc BOTZ",
   "version": "1.0.0",
-  "description": "",
+  "description": "just a single bot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
